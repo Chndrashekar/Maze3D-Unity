@@ -13,10 +13,17 @@ Improved graphics, 3rd person perspective, walking animation, moving blocks, inc
 
 Snapshots:
 Main menu:
+
 ![image](https://user-images.githubusercontent.com/39913867/212088021-7d9f98ed-3aa3-4197-bd39-ed1828077a1f.png)
+
 Level 1:
+
 ![image](https://user-images.githubusercontent.com/39913867/212088116-5c58924f-a161-46e4-82a4-99a10ac26397.png)
+
 Level 2:
+
 ![image](https://user-images.githubusercontent.com/39913867/212088168-0198bcb5-0868-4b0a-99fb-7b23a12c750e.png)
+
 Game Over:
+
 ![image](https://user-images.githubusercontent.com/39913867/212088210-2cbecf06-3810-4022-84e3-b454dd4cd9bd.png)
